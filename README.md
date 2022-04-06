@@ -1,7 +1,7 @@
 ### Hey there! I'm Justice 👋
 
 
-### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=justice-hub.justice-hub)
+### Happy to meet you! &nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=justice-hub.justice-hub)](https://github.com/justice-hub/justice-hub)
 
 Building a successful product is a challenge. I am a front-end developer, who has a great passion for programming and loves to create things for the web.
 I enjoy working on new projects and pushing the boundaries of what's possible with code. I am always looking to learn new skills and techniques, so feel free to reach out if you need help with anything.
