@@ -1,18 +1,39 @@
-### Hey there! I'm Justice 👋
+## Hey there! I'm Justice 👋
+
+&nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=justice-hub.justice-hub)](https://github.com/justice-hub/justice-hub) 
+---
 
 
-### Happy to meet you! &nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=justice-hub.justice-hub)](https://github.com/justice-hub/justice-hub)
+### **Happy to meet you!**
 
 Building a successful product is a challenge. I am a front-end developer, who has a great passion for programming and loves to create things for the web.
 I enjoy working on new projects and pushing the boundaries of what's possible with code. I am always looking to learn new skills and techniques, so feel free to reach out if you need help with anything.
 
-[![Justice's GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-hub&show_icons=true&theme=tokyonight&border_radius=30)](https://github.com/justice-hub/justice-hub)
+---
 
-**What I'm up to?**
+### **About me**
+
+- Currently coding in **Italy**
+- Looking to collaborate with other people
+- Currently learning more about Node.JS, C, Web Design, UI and UX
+
+---
+
+### **What I'm up to?**
 
 - This upcomming semester my classes are focused on front end development and advanced programming techniques(such as memeory management, maintaining programs, and much more)
 - Help teach people about the tech world
 - I have some projects in the works I can't wait to share
+
+## **Stats**
+
+[![Justice's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=justice-hub&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/justice-hub/justice-hub)
+
+[![Justice's GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-hub&show_icons=true&theme=tokyonight)](https://github.com/justice-hub/justice-hub)
+
+[![Justice's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=justice-hub&theme=tokyonight)](https://github.com/justice-hub/justice-hub)
+
+[![Justice's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice_hub&theme=tokyonight)](https://github.com/justice-hub/justice-hub)
 
 <!--**What've I been up to this week?** 
 
