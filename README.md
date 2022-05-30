@@ -1,7 +1,6 @@
-## Hey there! I'm Justice 👋
+## Hey there! I'm Justice <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
-&nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=justice-hub.justice-hub)](https://github.com/justice-hub/justice-hub) 
----
+<!-- &nbsp; [![](https://visitor-badge.glitch.me/badge?page_id=justice-hub.justice-hub)](https://github.com/justice-hub/justice-hub) -->
 
 
 ### **Happy to meet you!**
@@ -33,7 +32,7 @@ I enjoy working on new projects and pushing the boundaries of what's possible wi
 
 [![Justice's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=justice-hub&theme=tokyonight)](https://github.com/justice-hub/justice-hub)
 
-[![Justice's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice_hub&theme=tokyonight)](https://github.com/justice-hub/justice-hub)
+<!--[![Justice's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice_hub&theme=tokyonight)](https://github.com/justice-hub/justice-hub) -->
 
 <!--**What've I been up to this week?** 
 
